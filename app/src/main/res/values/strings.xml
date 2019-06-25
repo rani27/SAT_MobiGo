@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MobiGo</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="type_title">Explore By %s</string>
+    <string name="title_products">Products</string>
+    <string name="lbl_ok">OK</string>
+    <string name="msg_api_error">Error occurred, Please try after some time</string>
+    <string name="msg_network">Please connect to network and try again.</string>
+    <string name="lbl_add_to_cart">Add To Cart</string>
+    <string name="lbl_buy_now">Buy Now</string>
+    <string name="msg_added_to_cart">Product added to cart</string>
+    <string name="msg_order_placed">Order placed successfully</string>
+    <string name="lbl_price">Rs. %d</string>
+    <string name="lbl_tagline">Happy Shopping!!</string>
+    <string name="lbl_filter_by">Filter By</string>
+    <string name="lbl_remove">Remove Filter</string>
+    <string name="lbl_sort">Sort</string>
+    <string name="lbl_filter">Filter</string>
+    <string name="lbl_newest_first">Newest First</string>
+    <string name="lbl_oldest_first">Oldest First</string>
+    <string name="lbl_price_low_to_high">Price Low To High</string>
+    <string name="lbl_price_high_to_high">Price High to Low</string>
+    <string name="lbl_sort_by">Sort By</string>
+    <string name="lbl_search">Search</string>
+</resources>
